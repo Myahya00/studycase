@@ -1,2 +1,0 @@
-# studycase
-git study case
